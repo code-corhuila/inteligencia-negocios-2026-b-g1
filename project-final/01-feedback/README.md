@@ -7,3 +7,4 @@ Aquí queda la retroalimentación de cada proyecto, revisión por revisión. Bus
 | Hotel Brisas de la Tatacoa S.A.S. | María Fernanda Arzayus Díaz | 0 · Definición (29-oct) | [arzayus-diaz-maria-fernanda.md](arzayus-diaz-maria-fernanda.md) |
 | PixelZone Gaming | José Miguel Aya Peralta y Juan José Guzmán Bohórquez | 0 · Definición (29-oct) | [aya-peralta-guzman-bohorquez.md](aya-peralta-guzman-bohorquez.md) |
 | Droguerías San Pedro | Camilo Andrés Cardozo Osorio | 0 · Definición (29-oct) | [cardozo-osorio-camilo-andres.md](cardozo-osorio-camilo-andres.md) |
+| TecnoSmart S.A.S. | Dylan Esteban Solano Salazar (equipo por declarar) | 0 · Definición (29-oct) | [solano-salazar-dylan-esteban.md](solano-salazar-dylan-esteban.md) |
