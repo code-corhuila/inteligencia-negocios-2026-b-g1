@@ -1,8 +1,8 @@
 Proyecto de Aula - Inteligencia de Negocios 2026-B
+Tablero de Inteligencia de Negocios para DomiPan Huila S.A.S.
 Fase 0 - Definición del Proyecto
 Integrantes
-TU NOMBRE COMPLETO
-COMPAÑERO (si aplica)
+Juan Manuel Rojas Mora
 Empresa y tipo
 DomiPan Huila S.A.S.
 
