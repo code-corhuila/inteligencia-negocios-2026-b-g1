@@ -9,11 +9,13 @@ Es el avance más completo de la Fase 0: la ficha está en la ruta correcta, los
 
 ## 1. Ajustes a la ficha
 
-1. **Número de integrantes.** La guía permite máximo dos integrantes por proyecto y la ficha declara cuatro. Este punto se define con el docente; mientras tanto, no cambien la ficha.
-2. **Doce meses de datos.** La guía exige 12 meses. `ventas.csv` va del 31/01/2024 al 30/12/2024, pero enero tiene solo 5 ventas (todas del 31 de enero): en la práctica son 11 meses, de febrero a diciembre. Completen enero o declaren el periodo real y cómo cumplen el mínimo.
-3. **KPI principal.** Las ventas totales describen, pero no explican. La pregunta habla de las *variaciones mensuales*, así que el KPI principal debería ser la **variación mensual de las ventas** = (ventas del mes − ventas del mes anterior) / ventas del mes anterior × 100, desglosada por categoría y método de pago. Ventas totales, ticket promedio y unidades vendidas quedan como KPI de apoyo.
+1. **Número de integrantes: aceptado con compromisos.** La guía permite máximo dos integrantes por proyecto; se acepta el equipo de cuatro con dos compromisos:
+   - **El plus.** En la próxima revisión (Fase 1) deben indicar qué aporta de más este proyecto frente a uno de dos integrantes: alcance, volumen de datos, análisis o productos adicionales.
+   - **Evidencia de aportes por integrante.** Cada integrante debe tener aportes visibles y verificables en el repositorio (commits propios o una sección del README que diga qué hizo cada uno en cada fase). En la sustentación cada integrante responde por el proyecto completo.
+2. **Consistencia de los datos.** La guía exige 12 meses. `ventas.csv` va del 31/01/2024 al 30/12/2024, pero enero tiene solo 5 ventas (todas del 31 de enero): en la práctica son 11 meses, de febrero a diciembre. Revisen la consistencia de los datos y verifiquen que la fuente se acople a la necesidad del proyecto; si no se acopla, adapten el planteamiento a lo que los datos sí permiten responder (o completen los datos).
+3. **KPI principal: hacer validación.** Las ventas totales describen, pero no explican. La pregunta habla de las *variaciones mensuales*, así que el KPI principal debería ser la **variación mensual de las ventas** = (ventas del mes − ventas del mes anterior) / ventas del mes anterior × 100, desglosada por categoría y método de pago. Validen que el KPI responda la pregunta y comprueben sus cifras: calculen a mano (en Excel o con un filtro sobre el CSV) el valor de dos o tres meses y compárenlo con lo que da Power BI. Ventas totales, ticket promedio y unidades vendidas quedan como KPI de apoyo.
 4. **Contexto de los datos.** El dataset de Kaggle es de Argentina: las regiones son Patagonia, Cuyo, NOA y NEA, y los productos incluyen medialunas, manteca y galletitas. Ambienten Andes Store en ese contexto, o adapten los datos, y declaren la moneda: los precios (12,24; 5,21) no son pesos colombianos.
-5. **Citar la fuente.** Escriban en la ficha el nombre del dataset, el autor y el enlace de Kaggle, en formato APA.
+5. **Citar la fuente: importante y no negociable.** Escriban en la ficha el nombre del dataset, el autor y el enlace de Kaggle, en formato APA. Sin la fuente citada, el proyecto no se acepta.
 
 ## 2. Datos personales en un repositorio público
 
@@ -92,6 +94,7 @@ Dim_Cliente ---- Fact_Venta ---- Dim_Metodo_Pago
 
 ## 6. Para la Fase 1 (jueves 5 de noviembre)
 
-- Actualizar la ficha con el periodo real, el KPI ajustado, el contexto y la moneda, y la cita del dataset.
+- Indicar el plus del proyecto por ser cuatro integrantes y dejar la evidencia de los aportes de cada uno.
+- Actualizar la ficha con el periodo real, el KPI ajustado y validado, el contexto y la moneda, y la cita del dataset.
 - Quitar las columnas personales de `clientes.csv`.
 - Documentar cada paso aplicado en Power Query con su motivo, mostrar el antes y el después de al menos tres problemas de calidad (la tabla de la sección 3 sirve de punto de partida) y escribir el diccionario de datos.
