@@ -8,3 +8,4 @@ Aquí queda la retroalimentación de cada proyecto, revisión por revisión. Bus
 | PixelZone Gaming | José Miguel Aya Peralta y Juan José Guzmán Bohórquez | 0 · Definición (29-oct) | [aya-peralta-guzman-bohorquez.md](aya-peralta-guzman-bohorquez.md) |
 | Droguerías San Pedro | Camilo Andrés Cardozo Osorio | 0 · Definición (29-oct) | [cardozo-osorio-camilo-andres.md](cardozo-osorio-camilo-andres.md) |
 | TecnoSmart S.A.S. | Dylan Esteban Solano Salazar (equipo por declarar) | 0 · Definición (29-oct) | [solano-salazar-dylan-esteban.md](solano-salazar-dylan-esteban.md) |
+| Andes Store | Juan José Horta Vanegas, Andrés Felipe Gómez Anacona, Laura Sofía Vallejo Oviedo y María Paula Barrios Fajardo | 0 · Definición (29-oct) | [horta-gomez-vallejo-barrios.md](horta-gomez-vallejo-barrios.md) |
