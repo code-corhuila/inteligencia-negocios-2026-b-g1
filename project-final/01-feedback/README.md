@@ -5,3 +5,4 @@ Aquí queda la retroalimentación de cada proyecto, revisión por revisión. Bus
 | Proyecto | Integrantes | Fase | Retroalimentación |
 |---|---|---|---|
 | Hotel Brisas de la Tatacoa S.A.S. | María Fernanda Arzayus Díaz | 0 · Definición (29-oct) | [arzayus-diaz-maria-fernanda.md](arzayus-diaz-maria-fernanda.md) |
+| PixelZone Gaming | José Miguel Aya Peralta y Juan José Guzmán Bohórquez | 0 · Definición (29-oct) | [aya-peralta-guzman-bohorquez.md](aya-peralta-guzman-bohorquez.md) |
